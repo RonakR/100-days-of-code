@@ -10,7 +10,7 @@
 1. [Standard JS](http://standardjs.com/rules.html)
 2. [AirBnB JS Style Guide](http://airbnb.io/javascript/)
 
-### Day 2: January 4rd, Wednesday
+### Day 2: January 4th, Wednesday
 
 **Today's Progress**: Removed keys from the code and added a config file. 
 
@@ -18,3 +18,9 @@
 
 **Link(s) to work**
 1. [Winston](https://github.com/winstonjs/winston)
+
+### Day 3: January 5th, Thursday
+
+**Today's Progress**: Added winston logging, and updated angular code to follow airbnb.
+
+**Thoughts** Tomorrow's going to have some heavy frontend work. 
