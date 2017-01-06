@@ -9,3 +9,12 @@
 **Link(s) to work**
 1. [Standard JS](http://standardjs.com/rules.html)
 2. [AirBnB JS Style Guide](http://airbnb.io/javascript/)
+
+### Day 2: January 4rd, Wednesday
+
+**Today's Progress**: Removed keys from the code and added a config file. 
+
+**Thoughts** Can't believe I didn't have a config before. Next need to add Winston for logging. 
+
+**Link(s) to work**
+1. [Winston](https://github.com/winstonjs/winston)
